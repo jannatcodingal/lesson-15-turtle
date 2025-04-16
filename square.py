@@ -1,0 +1,13 @@
+import turtle
+turtle.Screen().bgcolor("purple")
+a=turtle.Turtle()
+a.forward(90)
+a.right(90)
+a.pendown()
+a.forward(90)
+a.right(90)
+a.forward(90)
+a.right(90)
+a.forward(90)
+a.right(90)
+turtle.done()
